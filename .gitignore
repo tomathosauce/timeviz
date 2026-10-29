@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vite/
+*.local
+.tools/
+.env
+.env.*
+!.env.example
+backups/
+timeviz-backup-*.json
